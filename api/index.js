@@ -1,2 +1,1 @@
-import twikoo from 'twikoo'
-export default twikoo
+module.exports = require('twikoo-vercel')
